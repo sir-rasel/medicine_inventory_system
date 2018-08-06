@@ -1,0 +1,22 @@
+{
+  "name": "medicine_inventory_system",
+  "version": "1.0.0",
+  "description": "It is a online medicine shop. Order granted and delivered...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sir-rasel/medicine_inventory_system.git"
+  },
+  "keywords": [
+    "sir"
+  ],
+  "author": "Saiful Islam Rasel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sir-rasel/medicine_inventory_system/issues"
+  },
+  "homepage": "https://github.com/sir-rasel/medicine_inventory_system#readme"
+}
