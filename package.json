@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/sir-rasel/medicine_inventory_system/issues"
   },
-  "homepage": "https://github.com/sir-rasel/medicine_inventory_system#readme"
+  "homepage": "https://github.com/sir-rasel/medicine_inventory_system#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }

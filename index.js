@@ -21,7 +21,7 @@ const server = http.createServer(function(req,res){
 });
 
 // server listen calling
-server.listen(3000,localhost,function(){
+server.listen(3000,'localhost',function(){
     console.log("This part is: ");
     console.log(server.address().port);
 });
